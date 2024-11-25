@@ -14,7 +14,6 @@
 
 - 🔭 I’m currently working on my Data Science and Machine Learning Skills
 - 🌍  I'm based in Indonesia
-- 🖥️  See my portfolio at [Mir's Portfolio](http://datascienceportfol.io/mkhairunnisa)
 - ✉️  You can contact me at [kh.manda@gmail.com](mailto:kh.manda@gmail.com)
 - 🤝  I'm open to collaborating on any Data Science or Machine Learning projects!
 
