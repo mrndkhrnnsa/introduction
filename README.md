@@ -15,6 +15,7 @@
 - 🔭 I’m currently working on my Data Science and Machine Learning Skills
 - 🌍  I'm based in Indonesia
 - ✉️  You can contact me at [kh.manda@gmail.com](mailto:kh.manda@gmail.com)
+- 📫  You can also reach me through [LinkedIn](https://www.linkedin.com/in/mkhairunnisa/)
 - 🤝  I'm open to collaborating on any Data Science or Machine Learning projects!
 
 <br>
