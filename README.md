@@ -12,11 +12,11 @@
  <p align="left">
 </p>
 
-- 🔭 I’m currently working on my Data Science and Machine Learning Skills
-- 🌍  I'm based in Indonesia
+- 🌍  I am based in Indonesia!
+- 🔭  I’m currently working on my Data Science and Machine Learning Skills through a Data Science bootcamp!
 - ✉️  You can contact me at [kh.manda@gmail.com](mailto:kh.manda@gmail.com)
-- 📫  You can also reach me through [LinkedIn](https://www.linkedin.com/in/mkhairunnisa/)
-- 🤝  I'm open to collaborating on any Data Science or Machine Learning projects!
+- 📫  Alternatively, you can reach me through my [LinkedIn profile!](https://www.linkedin.com/in/mkhairunnisa/)
+- 🤝  I'm open to collaborating on any Data Science projects!
 
 <br>
 
